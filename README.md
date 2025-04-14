@@ -1,19 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Customer-chrun-rate
 
 This repository demonstrates a machine learning project focused on predicting customer churn rates using an **Artificial Neural Network (ANN)**. The project utilizes customer data to predict the likelihood of customers leaving a service, helping businesses take proactive measures to reduce churn.
